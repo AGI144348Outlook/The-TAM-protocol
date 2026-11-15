@@ -1,15 +1,40 @@
 {
   "schema": "contract000.audit-checkpoint.v1",
   "repository": "AGI144348Outlook/The-TAM-protocol",
-  "represented_branch": "RESOLVE_FROM_PARENT_BRANCH_FOLDER",
+  "represented_branch": "claude/github-claude-code-connection-98qkbx",
+  "source_commit": "5f8612ba35f55baf98df7e93b68fac7cdb45f1d5",
   "category": "protocols",
-  "phase": "VERIFY_DIRECTORY",
-  "directory_status": "GENERATED_FROM_PINNED_GITHUB_TREES",
-  "content_status": "NOT_AUDITED",
-  "last_completed_file": null,
-  "within_file_position": null,
+  "phase": "READ_FILES",
+  "directory_status": "PINNED_TWO_BRANCH_TREES_VERIFIED_2026-11-15; current main nonmaintenance drift not separately reconciled",
+  "content_status": "PARTIAL",
+  "last_completed_file": "README.md",
+  "within_file_position": "EOF",
+  "read_files": [
+    {
+      "path": ".gitignore",
+      "blob": "1798919542fe4241088254d03b0933a919d7c6bb",
+      "status": "READ_NO_FINDINGS"
+    },
+    {
+      "path": "LICENSE",
+      "blob": "f3d9495609f9ebb7de55366156905256b363ed04",
+      "status": "READ_NO_FINDINGS"
+    },
+    {
+      "path": "README.md",
+      "blob": "423d556d130e7dbe609ea7d5c026946bc1989fb3",
+      "status": "READ_NO_PROTOCOL_FINDINGS; claims unverified"
+    }
+  ],
+  "next_file": "articles/article-01-hacksilber.md",
   "findings": [],
-  "blockers": [],
+  "research_candidates": [
+    "Evaluate empirical support and falsifiability of README's 13.7g invariant and >95% correlation claim; no validation performed."
+  ],
+  "blockers": [
+    "Current main tip non-maintenance drift not independently reconciled",
+    "Issue comment creation action unavailable; maintenance progress must be handed off"
+  ],
   "next_directory": "../../skills/Contract_ReadMe/Contract000_readme.md",
   "updated": "2026-11-15"
 }
