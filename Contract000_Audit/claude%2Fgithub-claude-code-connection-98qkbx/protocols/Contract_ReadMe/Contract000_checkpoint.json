@@ -5,9 +5,9 @@
   "source_commit": "5f8612ba35f55baf98df7e93b68fac7cdb45f1d5",
   "category": "protocols",
   "phase": "READ_FILES",
-  "directory_status": "PINNED_TWO_BRANCH_TREES_VERIFIED_2026-11-15; current main nonmaintenance drift not separately reconciled",
+  "directory_status": "PINNED_TWO_BRANCH_TREES_VERIFIED_2026-11-16; CURRENT_MAIN_NONMAINTENANCE_MATCHES_PINNED",
   "content_status": "PARTIAL",
-  "last_completed_file": "README.md",
+  "last_completed_file": "articles/article-01-hacksilber.md",
   "within_file_position": "EOF",
   "read_files": [
     {
@@ -24,17 +24,22 @@
       "path": "README.md",
       "blob": "423d556d130e7dbe609ea7d5c026946bc1989fb3",
       "status": "READ_NO_PROTOCOL_FINDINGS; claims unverified"
+    },
+    {
+      "path": "articles/article-01-hacksilber.md",
+      "blob": "a9487facc1ed8cf632bd7b287ae0038e3b3a8658",
+      "status": "READ_NO_PROTOCOL_FINDINGS; archaeological claims unverified"
     }
   ],
-  "next_file": "articles/article-01-hacksilber.md",
+  "next_file": "articles/article-02-water-weight-computes.md",
   "findings": [],
   "research_candidates": [
-    "Evaluate empirical support and falsifiability of README's 13.7g invariant and >95% correlation claim; no validation performed."
+    "Evaluate empirical support and falsifiability of README's 13.7g invariant and >95% correlation claim; no validation performed.",
+    "Article 01 proposes a 13.7g Indus mass standard, 11.4g/8.3g conversion friction, Eshtemoa silver calibration, and particular ancient tablet interpretations; all require independent archaeological/source verification before translation or publication. The title's 'protocol' is a conceptual framing, not an implemented MCP protocol."
   ],
   "blockers": [
-    "Current main tip non-maintenance drift not independently reconciled",
     "Issue comment creation action unavailable; maintenance progress must be handed off"
   ],
   "next_directory": "../../skills/Contract_ReadMe/Contract000_readme.md",
-  "updated": "2026-11-15"
+  "updated": "2026-11-16"
 }
