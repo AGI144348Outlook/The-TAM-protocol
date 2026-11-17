@@ -4,12 +4,12 @@
   "branch_index": 0,
   "category_index": 0,
   "next_directory": "claude%2Fgithub-claude-code-connection-98qkbx/protocols/Contract_ReadMe/Contract000_readme.md",
-  "directory_status": "PINNED_TWO_BRANCH_TREES_VERIFIED; CURRENT_MAIN_DRIFT_PENDING",
-  "content_status": "PARTIAL_THREE_FILES_READ",
-  "last_run_id": "automation-turn-11-2026-11-15T09:58:06-06:00 (scheduler UUID unavailable)",
-  "last_completed_file": "README.md",
-  "next_file": "articles/article-01-hacksilber.md",
+  "directory_status": "PINNED_TWO_BRANCH_TREES_VERIFIED; CURRENT_MAIN_NONMAINTENANCE_MATCHES_PINNED",
+  "content_status": "PARTIAL_FOUR_FILES_READ",
+  "last_run_id": "automation-turn-11-2026-11-16T18:01-06:00 (scheduler UUID unavailable)",
+  "last_completed_file": "articles/article-01-hacksilber.md",
+  "next_file": "articles/article-02-water-weight-computes.md",
   "source_commit": "5f8612ba35f55baf98df7e93b68fac7cdb45f1d5",
-  "category_checkpoint_commit": "d2a5e3588bb0f075c49504cdb3f88df30ffbd5a0",
-  "updated": "2026-11-15"
+  "category_checkpoint_commit": "027484cced276e3cce68e805cba52c0b9ba04f77",
+  "updated": "2026-11-16"
 }
